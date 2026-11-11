@@ -1,0 +1,7 @@
+anthropic>=0.40.0
+python-dotenv>=1.0.0
+
+# Opsional - hanya untuk mode suara (--voice)
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+pyttsx3>=2.90
